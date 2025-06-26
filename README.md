@@ -19,3 +19,27 @@ This repository provides a step-by-step guide to:
 1. Clone this repository:
 ```bash
 git clone https://github.com/se7en69/scRNA-seq-Tutorial.git
+```
+
+2.Install required R packages:
+install.packages(c("Seurat", "dplyr", "ggplot2", "patchwork", "SingleR", "celldex", "RColorBrewer"))
+
+3. 📂 Project Structure
+scRNA-seq-Tutorial/
+├── data/                  # Raw data 
+├── scripts/
+│   ├── analysis.R         # Main analysis script
+├── results/
+│   ├── figures/           # Output plots
+│   └── tables/            # Output tables
+├── README.md
+└── LICENSE
+
+🚀 Quick Start
+Download the data from GEO: GSE110746
+Place the raw data in the data/ directory
+Run the analysis script:
+source("scripts/analysis.R")
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first.
