@@ -43,7 +43,9 @@ scRNA-seq-Tutorial/
 Download the data from GEO: GSE110746
 Place the raw data in the data/ directory
 Run the analysis script:
+```bash
 source("scripts/analysis.R")
+```
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
