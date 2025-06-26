@@ -22,7 +22,9 @@ git clone https://github.com/se7en69/scRNA-seq-Tutorial.git
 ```
 
 2.Install required R packages:
+```bash
 install.packages(c("Seurat", "dplyr", "ggplot2", "patchwork", "SingleR", "celldex", "RColorBrewer"))
+```
 
 ## 3. 📂 Project Structure
 ```bash
