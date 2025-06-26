@@ -24,7 +24,8 @@ git clone https://github.com/se7en69/scRNA-seq-Tutorial.git
 2.Install required R packages:
 install.packages(c("Seurat", "dplyr", "ggplot2", "patchwork", "SingleR", "celldex", "RColorBrewer"))
 
-3. 📂 Project Structure
+## 3. 📂 Project Structure
+```bash
 scRNA-seq-Tutorial/
 ├── data/                  # Raw data 
 ├── scripts/
@@ -34,6 +35,7 @@ scRNA-seq-Tutorial/
 │   └── tables/            # Output tables
 ├── README.md
 └── LICENSE
+```
 
 🚀 Quick Start
 Download the data from GEO: GSE110746
