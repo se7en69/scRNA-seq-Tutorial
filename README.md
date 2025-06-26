@@ -1,6 +1,6 @@
 # Single-Cell RNA-Seq Analysis of B16 Melanoma Cells
 
-![scRNA-seq Workflow](https://github.com/yourusername/scRNA-seq-B16-Melanoma-Tutorial/raw/main/images/workflow.png)
+![scRNA-seq Workflow](https://github.com/se7en69/scRNA-seq-Tutorial/workflow.png)
 
 A comprehensive tutorial for analyzing single-cell RNA sequencing data using Seurat in R, featuring B16 melanoma cells from [GSE110746](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110746).
 
