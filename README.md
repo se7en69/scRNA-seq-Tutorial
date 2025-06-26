@@ -18,4 +18,4 @@ This repository provides a step-by-step guide to:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/scRNA-seq-B16-Melanoma-Tutorial.git
+git clone https://github.com/se7en69/scRNA-seq-Tutorial.git
